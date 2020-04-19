@@ -2,7 +2,7 @@
 
 # Beginner JavaScript
 
-These are the starter files and solutions to the [Beginner JavaScript](https://BeginnerJavaScript.com) course
+Hello, I am learning how to program with javascript using Wes Bos' courses. These are the starter files and solutions to the [Beginner JavaScript](https://BeginnerJavaScript.com) course
 
 
 ## Community Resources
